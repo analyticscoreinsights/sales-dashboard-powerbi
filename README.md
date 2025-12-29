@@ -23,5 +23,4 @@ The dashboard helps analyze overall sales performance and trends using interacti
 
 ## Repository Structure
 - data/raw – Original Excel data
-- data/processed – Cleaned data (if applicable)
 - powerbi – Power BI dashboard (.pbix file)
